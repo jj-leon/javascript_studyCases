@@ -2,7 +2,7 @@ class Store{
     title;
     id;
 
-//método do objeto    
+//método dos objetoah s   
 livro(nome, number){
     this.title = nome;
     this.id = number;
